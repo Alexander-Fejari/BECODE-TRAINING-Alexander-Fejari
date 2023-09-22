@@ -15,3 +15,4 @@ Les utilisateurs accèdent à Internet via des navigateurs web, qui utilisent le
 ## volution et Défis : 
 
 Internet est en constante évolution, avec de nouvelles technologies et des services émergents régulièrement. Cependant, des défis tels que la sécurité des données, la protection de la vie privée et la neutralité du net sont au centre des préoccupations. Des acteurs variés, notamment des entreprises, des gouvernements et des organisations, jouent un rôle dans la gestion et le développement d'Internet, faisant de lui un écosystème dynamique qui continue de façonner notre vie quotidienne.
+this theory file has been reviewed by AHMED 
